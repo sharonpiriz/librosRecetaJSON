@@ -32,7 +32,7 @@
         "descripcion": "Libro de recetas",
         "precio": "1200",
         "imagenUrl": "imagenes/imagen5.jpeg",
-        "categoria:": "Almuerzo"
+        "categoria": "Almuerzo"
     },
     {
         "nombre": "The baking journal",
